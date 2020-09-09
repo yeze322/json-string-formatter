@@ -12,7 +12,7 @@ or
 ## Usage
 1. Import
 ```javascript
-const { format } = require('json-string-formatter';
+const { format } = require('json-string-formatter');
 
 // or
 
